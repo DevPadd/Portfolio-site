@@ -7,3 +7,4 @@ tech used:
 - Bootstrap 5
 
 Demo link: https://devpadd.github.io/Portfolio-site/
+* note that the page is static, so the form will not work
